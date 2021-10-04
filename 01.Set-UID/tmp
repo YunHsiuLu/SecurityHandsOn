@@ -1,0 +1,12 @@
+-rwsr-xr-x 1 root root 68208 May 28  2020 /bin/./passwd
+-rwsr-xr-x 1 root root 31032 Aug 16  2019 /bin/./pkexec
+-rwsr-xr-x 1 root root 55528 Jul 21  2020 /bin/./mount
+-rwsr-xr-x 1 root root 166056 Jul 14  2020 /bin/./sudo
+-rwsr-xr-x 1 root root 39144 Jul 21  2020 /bin/./umount
+-rwsr-xr-x 1 root root 67816 Jul 21  2020 /bin/./su
+-rwsr-xr-x 1 root root 39144 Mar  7  2020 /bin/./fusermount
+-rwsr-xr-x 1 root root 44784 May 28  2020 /bin/./newgrp
+-rwsr-xr-x 1 root root 88464 May 28  2020 /bin/./gpasswd
+-rwsr-xr-x 1 root root 85064 May 28  2020 /bin/./chfn
+-rwsr-xr-x 1 root root 14728 Jun 22  2020 /bin/./vmware-user-suid-wrapper
+-rwsr-xr-x 1 root root 53040 May 28  2020 /bin/./chsh
