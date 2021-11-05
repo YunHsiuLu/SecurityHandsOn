@@ -1,4 +1,0 @@
-   text	   data	    bss	    dec	    hex	filename
-   1418	    544	      8	   1970	    7b2	easy.out
-   1418	    544	    272	   2234	    8ba	uninit_var.out
-   1418	    564	      4	   1986	    7c2	init_var.out
