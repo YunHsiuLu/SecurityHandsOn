@@ -18,7 +18,7 @@ int main() {
 	while(1) {
 		printf("Please enter your guess: ");
 		scanf("%u", &guess);
-
+		guess = secret;
 		if (guess == secret)
 			break;
 		
