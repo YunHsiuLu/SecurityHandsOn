@@ -1,5 +1,5 @@
-b main
+b bof
 r
-p system
+p execv
 p exit
 quit
