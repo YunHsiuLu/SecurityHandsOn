@@ -1,0 +1,6 @@
+b main
+r
+p main
+p f
+p g
+q
